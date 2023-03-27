@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei Moza</h1>
 <h3 align="center">I'm a student form Romania at University of Oradea.</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 - 🔭 I’m currently working on **Unity Game.**
 - 💬 Ask me about **java, C#, Photoshop, Iilustrator.**
