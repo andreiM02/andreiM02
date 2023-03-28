@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei Moza</h1>
 <h3 align="center">I'm a student form Romania at University of Oradea.</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif](https://media2.giphy.com/media/j736NvdQFYhX9FOtx6/giphy.gif?cid=6c09b95260hntmc7kyn90tn44ysc0zj7uw2o7ftmamj3a5zl&rid=giphy.gif&ct=s)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52872702/228196160-202df435-7cb1-4cb5-ba0e-b4de3367c230.png">
 
 - 🔭 I’m currently working on **Unity Game.**
 - 💬 Ask me about **java, C#, Photoshop, Iilustrator.**
