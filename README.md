@@ -4,7 +4,7 @@
 
 - ⚙️ I'm Currently working on **My profile**
 - 🔭 I’m currently working on **Unity Game.**
-- 💬 Ask me about **java, C#, Photoshop, Iilustrator.**
+- 💬 Ask me about **C#, Photoshop, Iilustrator.**
 - 📫 How to reach me **mozandrei@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
