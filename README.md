@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52872702/228196160-202df435-7cb1-4cb5-ba0e-b4de3367c230.png">
 
 - ⚙️ I'm Currently working on **My profile**
-- 🔭 I’m currently working on **Unity Game.**
+- 🔭 I’m currently working on **Univeristy Project**
 - 💬 Ask me about **C#, Photoshop, Iilustrator.**
 - 📫 How to reach me **mozandrei@yahoo.com**
 
